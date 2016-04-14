@@ -3,8 +3,7 @@ WSYFPSLabel-简单的FPS监测小工具
 
 使用方法：
 1直接将WSYFPSLabel.h WSYFPSLabel.m文件拖入工程
-2引入头文件
-#import "WSYFPSLabel.h"
+2引入头文件#import "WSYFPSLabel.h"
 3添加属性
 @property (nonatomic, strong) WSYFPSLabel *wsyFPSLabel;
 4添加方法
